@@ -1,6 +1,6 @@
 # Challenge Fronted Mentor
 
-The repository contains design challenges created by (Fronted Mentor)['https://www.frontendmentor.io/'].
+The repository contains design challenges created by [Fronted Mentor](https://www.frontendmentor.io/).
 
 ## Dev Skills
 
