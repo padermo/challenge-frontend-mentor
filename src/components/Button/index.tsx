@@ -7,10 +7,15 @@ export default function Button({
   title,
   onClick,
 }: ButtonProps) {
+  console.log(className);
   return (
-    <button className={className} onClick={onClick}>
-      <span className="text-center">{title}</span>
+    <button
+      className={`flex justify-center items-center gap-2 px-6 py-2 ${className}`}
+      onClick={onClick}
+    >
       {children}
+
+      <span>{title}</span>
     </button>
   );
 }

@@ -1,9 +1,5 @@
-import "@/styles/mortgage.css";
+import MortgageView from "@/view/mortgage";
 
 export default function Mortgage() {
-  return (
-    <div className="mortgage">
-      <h1>hola</h1>
-    </div>
-  );
+  return <MortgageView />;
 }
