@@ -4,7 +4,13 @@ The repository contains design challenges created by [Fronted Mentor](https://ww
 
 ## Dev Skills
 
-TypeScript, Next JS, CSS3, HTML5
+Skills used for the general development of the design challenges:
+
+- TypeScript
+- Next JS
+- Tailwind
+- CSS3
+- HTML5
 
 ## Commands
 
